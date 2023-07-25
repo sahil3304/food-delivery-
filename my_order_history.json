@@ -1,0 +1,26 @@
+[
+  {
+    "food-item-image": "./assets/veg-maharaja-wrap.png",
+    "food-item-txt": "Veg Maharaja Wrap",
+    "food-item-qty": 2,
+    "food-item-price": 456
+  },
+  {
+    "food-item-image": "./assets/veg-biryani.png",
+    "food-item-txt": "Veg Biryani",
+    "food-item-qty": 3,
+    "food-item-price": 457
+  },
+  {
+    "food-item-image": "./assets/veg-pizza.png",
+    "food-item-txt": "Veg Pizza",
+    "food-item-qty": 1,
+    "food-item-price": 299
+  },
+  {
+    "food-item-image": "./assets/paneer-tikka.png",
+    "food-item-txt": "Paneer Tikka",
+    "food-item-qty": 4,
+    "food-item-price": 189
+  }
+]

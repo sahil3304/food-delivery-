@@ -1,0 +1,21 @@
+[
+    {
+      "food-item-image": "./assets/rectangle-55.png",
+      "food-item-txt": "Veg Maharaja Wrap",
+      "food-item-qty": 2,
+      "food-item-price": 456
+    },
+    {
+        "food-item-image": "./assets/rectangle-55.png",
+        "food-item-txt": "Veg Mahrap",
+        "food-item-qty": 3,
+        "food-item-price": 457
+    },
+    {
+      "food-item-image": "./assets/rectangle-55.png",
+      "food-item-txt": "Veg Mahrap",
+      "food-item-qty": 3,
+      "food-item-price": 457
+    }
+  ]
+  

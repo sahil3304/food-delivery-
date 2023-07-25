@@ -1,0 +1,282 @@
+   [
+    {
+      "foodItemImage": "./assets/component-3.png",
+      "foodItemName": "Big Mac",
+      "outlet_name": "McDonald's",
+      "price": 299,
+      "veg": true,
+      "new": true,
+      "tag": "Bestseller",
+      "qty": 1,
+      "desc": "A huge single or triple burger with all the fixings, cheese, lettuce, tomato, onions and special sauce or mayonnaise!"
+    },
+    {
+      "food-item-image": "./assets/component-3.png",
+      "food-item-name": "Filet-O-Fish",
+      "outlet_name": "McDonald's",
+      "price": 299,
+      "veg": false,
+      "new": false,
+      "tag": "Classic",
+      "qty": 1,
+      "desc": "A delicious fish sandwich with a crispy patty, tartar sauce, and lettuce."
+    },
+    {
+      "food-item-image": "./assets/component-3.png",
+      "food-item-name": "McChicken",
+      "outlet_name": "McDonald's",
+      "price": 199,
+      "veg": false,
+      "new": true,
+      "tag": "Limited Time",
+      "qty": 1,
+      "desc": "A classic chicken sandwich with crispy chicken, lettuce, mayo, and a toasted bun."
+    },
+    {
+      "food-item-image": "./assets/component-3.png",
+      "food-item-name": "Cheeseburger",
+      "outlet_name": "McDonald's",
+      "price": 149,
+      "veg": false,
+      "new": false,
+      "tag": "",
+      "qty": 1,
+      "desc": "A classic cheeseburger with a beef patty, cheese, pickles, onions, and ketchup."
+    },
+    {
+      "food-item-image": "./assets/component-3.png",
+      "food-item-name": "McNuggets",
+      "outlet_name": "McDonald's",
+      "price": 249,
+      "veg": false,
+      "new": false,
+      "tag": "",
+      "qty": 1,
+      "desc": "Tender and crispy chicken nuggets served with your choice of dipping sauce."
+    },
+    {
+      "food-item-image": "./assets/component-3.png",
+      "food-item-name": "Chicken Teriyaki Sandwich",
+      "outlet_name": "Subway",
+      "price": 199,
+      "veg": true,
+      "new": true,
+      "tag": "Recommended",
+      "qty": 1,
+      "desc": "A mouthwatering sandwich with grilled chicken, teriyaki sauce, and fresh veggies."
+    },
+    {
+      "food-item-image": "./assets/component-3.png",
+      "food-item-name": "Veggie Delite",
+      "outlet_name": "Subway",
+      "price": 199,
+      "veg": true,
+      "new": false,
+      "tag": "",
+      "qty": 3,
+      "desc": "A healthy and delicious sandwich loaded with fresh vegetables and your choice of sauce."
+    },
+    {
+      "food-item-image": "./assets/component-3.png",
+      "food-item-name": "Turkey Breast Sandwich",
+      "outlet_name": "Subway",
+      "price": 229,
+      "veg": false,
+      "new": false,
+      "tag": "",
+      "qty": 1,
+      "desc": "A flavorful sandwich made with sliced turkey breast, lettuce, tomato, and your choice of toppings."
+    },
+    {
+      "food-item-image": "./assets/component-3.png",
+      "food-item-name": "Italian B.M.T.",
+      "outlet_name": "Subway",
+      "price": 249,
+      "veg": false,
+      "new": true,
+      "tag": "Spicy",
+      "qty": 1,
+      "desc": "A classic Italian sandwich loaded with pepperoni, salami, ham, and your choice of vegetables and condiments."
+    },
+    {
+      "food-item-image": "./assets/component-3.png",
+      "food-item-name": "Roast Beef Sub",
+      "outlet_name": "Subway",
+      "price": 219,
+      "veg": false,
+      "new": false,
+      "tag": "",
+      "qty": 1,
+      "desc": "A delicious sub sandwich with tender roast beef, your choice of veggies, and creamy horseradish sauce."
+    },
+    {
+      "food-item-image": "./assets/component-3.png",
+      "food-item-name": "Zinger Burger",
+      "outlet_name": "KFC",
+      "price": 249,
+      "veg": true,
+      "new": true,
+      "tag": "Spicy",
+      "qty": 1,
+      "desc": "A fiery and flavorful burger made with a spicy chicken fillet, lettuce, and mayo."
+    },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Popcorn Chicken",
+        "outlet_name": "KFC",
+        "price": 249,
+        "veg": false,
+        "new": false,
+        "tag": "",
+        "qty": 3,
+        "desc": "Crunchy and delicious bite-sized chicken pieces, perfect for snacking or sharing."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Bucket Meal",
+        "outlet_name": "KFC",
+        "price": 299,
+        "veg": false,
+        "new": false,
+        "tag": "",
+        "qty": 1,
+        "desc": "A complete meal with a bucket of fried chicken, sides, and drinks."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Twister Wrap",
+        "outlet_name": "KFC",
+        "price": 199,
+        "veg": false,
+        "new": false,
+        "tag": "",
+        "qty": 1,
+        "desc": "A flavorful wrap filled with your choice of protein, lettuce, and sauce."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Famous Bowl",
+        "outlet_name": "KFC",
+        "price": 279,
+        "veg": false,
+        "new": false,
+        "tag": "",
+        "qty": 1,
+        "desc": "A delicious bowl of mashed potatoes, corn, gravy, cheese, and your choice of protein."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Crunchy Taco",
+        "outlet_name": "Taco Bell",
+        "price": 99,
+        "veg": true,
+        "new": true,
+        "tag": "Crunchy",
+        "qty": 1,
+        "desc": "A crispy taco shell filled with seasoned ground beef, lettuce, cheese, and salsa."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Bean Burrito",
+        "outlet_name": "Taco Bell",
+        "price": 99,
+        "veg": true,
+        "new": false,
+        "tag": "",
+        "qty": 1,
+        "desc": "A flavorful burrito filled with seasoned beans, rice, cheese, and your choice of toppings."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Quesadilla",
+        "outlet_name": "Taco Bell",
+        "price": 129,
+        "veg": true,
+        "new": false,
+        "tag": "",
+        "qty": 1,
+        "desc": "A cheesy and delicious quesadilla filled with melted cheese, your choice of protein, and veggies."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Mexican Pizza",
+        "outlet_name": "Taco Bell",
+        "price": 79,
+        "veg": true,
+        "new": true,
+        "tag": "Spicy",
+        "qty": 1,
+        "desc": "A crispy tortilla topped with beans, seasoned ground beef, cheese, and spicy sauce."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Chalupa",
+        "outlet_name": "Taco Bell",
+        "price": 89,
+        "veg": true,
+        "new": false,
+        "tag": "",
+        "qty": 1,
+        "desc": "A soft and chewy chalupa shell filled with your choice of protein, lettuce, cheese, and salsa."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Pepperoni Pizza",
+        "outlet_name": "Domino's Pizza",
+        "price": 349,
+        "veg": true,
+        "new": false,
+        "tag": "",
+        "qty": 1,
+        "desc": "A classic pizza topped with pepperoni, cheese, and a tangy tomato sauce."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Margherita Pizza",
+        "outlet_name": "Domino's Pizza",
+        "price": 349,
+        "veg": true,
+        "new": false,
+        "tag": "Bestseller",
+        "qty": 1,
+        "desc": ""
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Vegetable Supreme Pizza",
+        "outlet_name": "Domino's Pizza",
+        "price": 399,
+        "veg": true,
+        "new": false,
+        "tag": "",
+        "qty": 1,
+        "desc": "A delicious pizza loaded with a variety of fresh vegetables and melted cheese."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Chicken BBQ Pizza",
+        "outlet_name": "Domino's Pizza",
+        "price": 449,
+        "veg": false,
+        "new": false,
+        "tag": "",
+        "qty": 1,
+        "desc": "A mouthwatering pizza topped with grilled chicken, BBQ sauce, and a blend of cheeses."
+      },
+      {
+        "food-item-image": "./assets/component-3.png",
+        "food-item-name": "Peppy Paneer Pizza",
+        "outlet_name": "Domino's Pizza",
+        "price": 499,
+        "veg": true,
+        "new": true,
+        "tag": "Spicy",
+        "qty": 1,
+        "desc": "A spicy and flavorful pizza topped with paneer, capsicum, onions, and a special spice blend."
+      }
+    ]
+    
+    
+    
+    
+    

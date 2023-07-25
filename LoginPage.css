@@ -1,0 +1,49 @@
+.container{
+    margin: none;
+    padding: none;
+}
+
+input::placeholder {
+    color: #FFBF00;
+}
+
+.firstName, .mobileNumber, .lastName{
+    padding-top: 50px;
+    align-items: center;
+}
+
+.required-fields input{
+    border: none;
+    border-bottom: 2px solid #FFBF00;
+    width: 420px;
+    height: 40px;
+    /* text-align: center; */
+}
+
+.login-font{
+    color: #FFF;
+    font-size: 19px;    
+    font-family: Cairo;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.btn-div{
+    padding-top: 75px;
+    padding-left: 5%;
+}
+
+.login-btn{
+    width: 360px;
+    height: 46px;
+    border-radius: 10px;
+    background: #FEBF00;
+    flex-shrink: 0;
+    border: none;
+}
+
+.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}

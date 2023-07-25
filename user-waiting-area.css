@@ -1,0 +1,33 @@
+
+
+.order-conf,.boring-txt{
+    position: relative;
+    top: 100px;
+    left: 20px;
+}
+
+.boring-txt{
+    padding-top: 25px;
+}
+
+.confirmation-txt{
+    display: flex;
+    justify-content: center;
+    color: #222;
+    font-family: Inter;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.boring-txt{
+    color: #808080;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    justify-content: center;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}

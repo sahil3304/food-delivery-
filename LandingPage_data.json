@@ -1,0 +1,177 @@
+[
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Big Mac",
+    "outlet_name": "McDonald's",
+    "price": 299,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Filet-O-Fish",
+    "outlet_name": "McDonald's",
+    "price": 299,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "McChicken",
+    "outlet_name": "McDonald's",
+    "price": 199,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Cheeseburger",
+    "outlet_name": "McDonald's",
+    "price": 149,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "McNuggets",
+    "outlet_name": "McDonald's",
+    "price": 249,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Chicken Teriyaki Sandwich",
+    "outlet_name": "Subway",
+    "price": 199,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Veggie Delite",
+    "outlet_name": "Subway",
+    "price": 199,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Turkey Breast Sandwich",
+    "outlet_name": "Subway",
+    "price": 229,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Italian B.M.T.",
+    "outlet_name": "Subway",
+    "price": 249,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Roast Beef Sub",
+    "outlet_name": "Subway",
+    "price": 219,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Zinger Burger",
+    "outlet_name": "KFC",
+    "price": 249,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Popcorn Chicken",
+    "outlet_name": "KFC",
+    "price": 249,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Bucket Meal",
+    "outlet_name": "KFC",
+    "price": 299,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Twister Wrap",
+    "outlet_name": "KFC",
+    "price": 199,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Famous Bowl",
+    "outlet_name": "KFC",
+    "price": 279,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Crunchy Taco",
+    "outlet_name": "Taco Bell",
+    "price": 99,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Bean Burrito",
+    "outlet_name": "Taco Bell",
+    "price": 99,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Quesadilla",
+    "outlet_name": "Taco Bell",
+    "price": 129,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Mexican Pizza",
+    "outlet_name": "Taco Bell",
+    "price": 79,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Chalupa",
+    "outlet_name": "Taco Bell",
+    "price": 89,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Pepperoni Pizza",
+    "outlet_name": "Domino's Pizza",
+    "price": 349,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Margherita Pizza",
+    "outlet_name": "Domino's Pizza",
+    "price": 349,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Vegetable Supreme Pizza",
+    "outlet_name": "Domino's Pizza",
+    "price": 399,
+    "veg": true
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Chicken BBQ Pizza",
+    "outlet_name": "Domino's Pizza",
+    "price": 449,
+    "veg": false
+  },
+  {
+    "food-item-image": "./assets/component-3.png",
+    "food-item-name": "Peppy Paneer Pizza",
+    "outlet_name": "Domino's Pizza",
+    "price": 499,
+    "veg": true
+  }
+]
